@@ -41,9 +41,6 @@ The objective of this project is to analyze restaurant data to improve demand fo
 
 ---
 
-## Dashboard
-
-
 
 ## Dashboard
 
