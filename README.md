@@ -43,7 +43,8 @@ The objective of this project is to analyze restaurant data to improve demand fo
 
 ## Dashboard
 
-*(Add your Power BI dashboard screenshot here)*
+![Uploading image.png…]()
+
 
 ---
 
