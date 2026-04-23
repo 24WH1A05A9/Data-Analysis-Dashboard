@@ -46,8 +46,7 @@ The objective of this project is to analyze restaurant data to improve demand fo
 
 ![Waste Analysis Dashboard](https://raw.githubusercontent.com/24WH1A05A9/Data-Analysis-Dashboard/main/Outputs/Waste%20Analysis.png)
 
-### Dashboard Interaction
-[View Dashboard](https://github.com/24WH1A05A9/Data-Analysis-Dashboard/blob/main/Outputs/Waste%20Analysis.png)
+
 ---
 
 ## Project Insight
